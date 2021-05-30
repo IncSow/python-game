@@ -1,0 +1,25 @@
+body{
+    font-size: 33px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    background-image: url(https://image.winudf.com/v2/image/Y29tLk1vYmlsZVN0cmFuZ2VyLmFwcDAwNzJfc2NyZWVuXzJfMTUzNzcwMDY4Nl8wNTc/screen-2.jpg?fakeurl=1&type=.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+iframe{
+    width: 720px;
+    height: fit-content;
+    height: -webkit-fill-available;
+    display: block;
+    border-style:none;
+    margin: 0 auto;
+}
